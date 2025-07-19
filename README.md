@@ -1,2 +1,2 @@
 # ERC20Token_Method
-Friendly Beginner Blockchain
+Hiểu chuẩn ERC-20, mint, transfer, burn.
